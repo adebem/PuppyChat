@@ -1,4 +1,4 @@
-![](images/logo.png)
+![](images/Logo.png)
 
 # PuppyChat
 Welcome to PuppyChat! This is a project meant to showcase my skills in the python programming
