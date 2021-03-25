@@ -26,7 +26,7 @@ ___
 * Basic description
 * Detailed description
 
-![](images/screenshot1.png)
+![](screenshot1.png)
 
 <p><br>PuppyChat can also compare difference dog breeds on the following attributes:</p>
 
@@ -35,15 +35,15 @@ ___
 * Lifespan
 * Group Membership
 
-![](images/screenshot2.png)
+![](screenshot2.png)
 
 <p><br>PuppyChat can also make one-to-all comparisons between breeds on the same four attributes listed above:</p>
 
-![](images/screenshot3.png)
+![](screenshot3.png)
 
 <p><br>As a bonus, it also can give a list of the members within a certain group:</P>
 
-![](images/screenshot4.png)
+![](screenshot4.png)
 
 ## Contributing
 ___
