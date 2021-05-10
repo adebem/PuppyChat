@@ -10,8 +10,7 @@ language. PuppyChat intelligently answers trivia questions about the American Ke
 ___
 1. Install Python (version 3.7 reccomended)
 2. Download and unzip the zip file
-3. On your IDE of choice, open the source code 
-4. Run PuppyChat.py
+3. Run PuppyChat.py
 
 ## PuppyChat in Action
 ___
